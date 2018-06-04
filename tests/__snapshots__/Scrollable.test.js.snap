@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Scrollable Should renders without problems 1`] = `
+<Scrollable
+  theme={Object {}}
+>
+  <ScrollableWrap>
+    <div
+      className="ScrollableWrap-gosbsp gwtdCs"
+    >
+      <Scrollable__InnerWrap
+        innerRef={[Function]}
+        theme={Object {}}
+      >
+        <div
+          className="Scrollable__InnerWrap-hefNkY cehacQ"
+        >
+          Кажется, эти придурки вырубились.
+        </div>
+      </Scrollable__InnerWrap>
+      <Scrollable__Track
+        innerRef={[Function]}
+      >
+        <div
+          className="Scrollable__Track-bdedxF joqAN"
+        >
+          <Scrollable__Thumb
+            innerRef={[Function]}
+            top={0}
+          >
+            <div
+              className="Scrollable__Thumb-lvMdc ctqOaj"
+            />
+          </Scrollable__Thumb>
+        </div>
+      </Scrollable__Track>
+    </div>
+  </ScrollableWrap>
+</Scrollable>
+`;
